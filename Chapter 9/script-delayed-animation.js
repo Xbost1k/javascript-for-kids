@@ -1,0 +1,1 @@
+$("h1").fadeOut(2000).delay(5000).fadeIn(2000);
